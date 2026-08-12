@@ -28,7 +28,3 @@ Then open localhost:3000
 - I kept every section as its own component in the components folder so it's easy to find and edit things.
 - Didn't add dark mode since it was listed as optional and I wanted to focus on getting the main sections solid first.
 
-## If I had more time
-
-- Would connect the contact form to something like Formspree so it actually sends messages
-- Would add a bit of scroll animation
