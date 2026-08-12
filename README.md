@@ -2,7 +2,7 @@
 
 This is my submission for the ReactJS/Next.js Developer Intern task at Weboin Technologies. The brief asked for a design agency homepage with a hero, services, portfolio, and contact section, so I built one for a made-up studio called Pixelate Studio since there wasn't an actual client to design for.
 
-
+live link pixelate-studio-homepage.vercel.app
 
 ## Why I built it this way
 
