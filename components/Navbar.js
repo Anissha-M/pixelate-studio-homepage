@@ -20,7 +20,7 @@ export default function Navbar() {
           Pixelate<span className="text-primary">.</span>
         </h1>
 
-        <ul className="hidden md:flex gap-8 text-lg font-medium text-gray-700 dark:text-gray-300">
+        <ul className="hidden md:flex gap-8 text-base font-medium text-gray-700 dark:text-gray-300">
           {navLinks.map((link) => (
             <li key={link.name}>
               <a href={link.href} className="hover:text-primary transition">
